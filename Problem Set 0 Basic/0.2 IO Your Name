@@ -1,6 +1,6 @@
 # input a String
 
-name = input()
+name = input("enter your name")
 print(name)
 
 # print(type(name))
